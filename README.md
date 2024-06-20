@@ -2,7 +2,9 @@
 ![](https://i.pinimg.com/originals/2a/6f/b6/2a6fb6ac14a958d1a2633ac3b2d4076b.gif)
 
 # 💻 Tech Stack:
-
+<div align="center">
+  <img src="https://i.pinimg.com/originals/2a/6f/b6/2a6fb6ac14a958d1a2633ac3b2d4076b.gif"/>
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
