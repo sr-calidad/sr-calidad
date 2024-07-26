@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2016<br>📚 I'm currently learning react and django<br>🎯 Goals: to make money<br>🎲 Fun fact: i play chess a lot</p>
+<p align="left">✨ Messing with programming since 2016<br>📚 I'm currently learning react and django<br>🎯 Goals: to make money<br>🎲 Fun fact: i play chess a lot</p>
 
 
 # 💻 Tech Stack:
